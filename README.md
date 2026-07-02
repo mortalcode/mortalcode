@@ -13,7 +13,6 @@ Self-Taught Full-Stack Developer | MERN Stack Learner | Passionate About Buildin
 <img src="https://komarev.com/ghpvc/?username=mortalcode&label=Profile%20Views&color=0e75b6&style=flat" />
 </a>
 
---
 
 # 💫 About Me
 

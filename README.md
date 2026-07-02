@@ -26,7 +26,6 @@ Self-Taught Full-Stack Developer | MERN Stack Learner | Passionate About Buildin
 - 🌱 Currently learning **MongoDB, Express.js and TypeScript**
 - 🚀 Building projects using the **MERN Stack**
 - 🎯 Goal: Become a professional Full-Stack Developer
-- 🇩🇪 Currently learning **German (B1)** while preparing for opportunities in Germany
 - ⚡ I enjoy solving real-world problems through code and continuously improving my skills.
 
 ---

@@ -22,7 +22,6 @@ Self-Taught Full-Stack Developer | MERN Stack Learner | Passionate About Buildin
 - 🎯 Goal: Become a professional Full-Stack Developer
 - ⚡ I enjoy solving real-world problems through code and continuously improving my skills.
 
----
 
 # 🚀 Currently Working On
 
@@ -32,6 +31,18 @@ Self-Taught Full-Stack Developer | MERN Stack Learner | Passionate About Buildin
 - ⚙️ Building more MERN Stack applications
 - 🎨 Improving UI/UX design practices
 
+
+# 📚 Currently Learning
+
+- TypeScript
+- MongoDB
+- Express.js
+- Authentication & Authorization
+- REST APIs
+- Advanced React
+- Clean Code Principles
+
+---
 ---
 
 # 🛠️ Tech Stack
@@ -97,18 +108,6 @@ A responsive vocabulary quiz application built to improve language learning.
 </a>
 
 </p>
-
----
-
-# 📚 Currently Learning
-
-- TypeScript
-- MongoDB
-- Express.js
-- Authentication & Authorization
-- REST APIs
-- Advanced React
-- Clean Code Principles
 
 ---
 

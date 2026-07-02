@@ -76,34 +76,7 @@ A responsive vocabulary quiz application built to improve language learning.
 
 ---
 
-### 🌐 Personal Portfolio
-
-Showcasing my projects, skills, and development journey.
-
-🔗 https://mortalcode.netlify.app/
-
----
-
-### 🚀 MERN Projects
-
-Currently building full-stack applications using:
-
-- MongoDB
-- Express.js
-- React
-- Node.js
-
----
-
 # 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mortalcode&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mortalcode&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 <p align="center">
 

@@ -43,7 +43,6 @@ Self-Taught Full-Stack Developer | MERN Stack Learner | Passionate About Buildin
 - Clean Code Principles
 
 ---
----
 
 # 🛠️ Tech Stack
 
@@ -109,13 +108,9 @@ A responsive vocabulary quiz application built to improve language learning.
 
 </p>
 
----
-
 # 💡 Quote I Like
 
 > "First, solve the problem. Then, write the code." – John Johnson
-
----
 
 <h3 align="center">
 

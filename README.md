@@ -13,10 +13,10 @@ Self-Taught Full-Stack Developer | MERN Stack Learner | Passionate About Buildin
 <img src="https://komarev.com/ghpvc/?username=mortalcode&label=Profile%20Views&color=0e75b6&style=flat" />
 </a>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<!-- <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=mortalcode&theme=algolia&margin-w=15&margin-h=15" />
 </a>
-</p>
+</p> -->
 
 ---
 

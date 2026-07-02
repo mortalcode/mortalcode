@@ -58,10 +58,6 @@ Self-Taught Full-Stack Developer | MERN Stack Learner | Passionate About Buildin
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=" />
-</p>
-
 ### Tools
 
 <p>
